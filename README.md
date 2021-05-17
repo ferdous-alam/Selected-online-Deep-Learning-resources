@@ -1,1 +1,2 @@
 # Selected-online-Deep-Learning-courses
+This is a selected collection of free online courses on Deep Learning. It covers topics on introduction to deep learning, deep reinforcement learning, computer vision, deep unsupervised learning and graph neural networks. I hope to keep updating this list. 
