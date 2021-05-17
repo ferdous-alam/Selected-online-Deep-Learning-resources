@@ -5,7 +5,7 @@
 
     
 # Reinforcement learning 
-1. [Deep reinforcement learning, Berkely, instructor: Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Deep reinforcement learning, Berkely, instructor: Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 # Computer vision
 - [Convolutional Neural Networks for Visual Recognition, Stanford, instructor: Fei-Fei Li, Ranjay Krishna, Danfei Xu](http://cs231n.stanford.edu/)
