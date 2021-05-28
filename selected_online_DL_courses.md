@@ -2,7 +2,7 @@
 - [Introduction to deep learning, MIT, instructor: Alexander Amini and Ava Soleimany](http://introtodeeplearning.com/)  
 - [Deep learning, IITM, instructor: Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/CS7015_2018.html)
 - [Deep learning, NYU, instructor: Yann LeCun & Alfredo Canziani](https://atcold.github.io/pytorch-Deep-Learning/)
-- [Deep learning models implementation](https://github.com/rasbt/deeplearning-models)
+- [Deep learning models implementation, UW Madison: Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
     
 # Reinforcement learning 
 - [Deep reinforcement learning, Berkely, instructor: Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/)
